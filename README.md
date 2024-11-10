@@ -1,4 +1,4 @@
-In this i build a tool using pre-build libraries that access the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. It also provides feedback to users on the password's strength.
+It is a tool build using pre-built libraries that access the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. It also provides feedback to users on the password's strength.
 
 How to run the password strength assessment tool script in Python ;-
 Create the Python Script
